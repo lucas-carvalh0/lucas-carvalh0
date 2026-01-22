@@ -2,7 +2,7 @@
 
 Me chamo **Lucas** e sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em **desenvolvimento de software** e aprendizado contínuo na área de tecnologia.
 
-Possuo conhecimentos básicos em **HTML, CSS, Java, C# e SQL**, além de fundamentos sólidos de **lógica de programação**. Busco aplicar na prática o que estudo por meio de **projetos acadêmicos** e **exercícios**, sempre com foco na evolução técnica e profissional.
+Possuo conhecimentos básicos em **HTML, CSS, Java, JavaScript, C# e SQL**, além de fundamentos sólidos de **lógica de programação**. Busco aplicar na prática o que estudo por meio de **projetos acadêmicos** e **exercícios**, sempre com foco na evolução técnica e profissional.
 
 Meu objetivo é **crescer profissionalmente na área de desenvolvimento**, adquirindo experiência prática e ampliando meus conhecimentos ao longo da graduação.
 
