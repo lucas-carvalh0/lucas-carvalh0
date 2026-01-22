@@ -1,4 +1,4 @@
-## 👨‍💻 Estudante de ADS
+## 🧑🏽‍💻 **Estudante de ADS**
 
 Me chamo **Lucas** e sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em **desenvolvimento de software** e aprendizado contínuo na área de tecnologia.
 
