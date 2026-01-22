@@ -1,12 +1,8 @@
-## 🧑🏽‍💻 **Estudante de ADS**
+# 🧑🏽‍💻 Lucas Carvalho 
+**`Estudante de ADS`** 
 
-Me chamo **Lucas** e sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em **desenvolvimento de software** e aprendizado contínuo na área de tecnologia.
+Me chamo **Lucas** e sou estudante de Análise e Desenvolvimento de Sistemas, tenho interesse em desenvolvimento de software e estou em constante aprendizado na área de tecnologia.  Possuo conhecimentos básicos em HTML, CSS, Java, Javascript, C# e SQL, além de fundamentos de lógica de programação. Busco sempre aplicar na prática o que estudo por meio de projetos acadêmicos e exercícios, com foco na evolução contínua.Tenho como objetivo crescer profissionalmente na área de desenvolvimento, adquirindo experiência prática e ampliando meus conhecimentos técnicos ao longo da graduação.
 
-Possuo conhecimentos básicos em **HTML, CSS, Java, JavaScript, C# e SQL**, além de fundamentos sólidos de **lógica de programação**. Busco aplicar na prática o que estudo por meio de **projetos acadêmicos** e **exercícios**, sempre com foco na evolução técnica e profissional.
-
-Meu objetivo é **crescer profissionalmente na área de desenvolvimento**, adquirindo experiência prática e ampliando meus conhecimentos ao longo da graduação.
-
----
 
 ### 🌐 Conecte-se comigo
 
@@ -15,12 +11,51 @@ Meu objetivo é **crescer profissionalmente na área de desenvolvimento**, adqui
 
 ---
 
-### 🧠 Tecnologias & Linguagens
+### 🧠 Tecnologias e Linguagens ###
 
-<p align="left">
-  <img alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-</p>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+
+
+
+ 
+          
+
+
+
+
+
+
+
