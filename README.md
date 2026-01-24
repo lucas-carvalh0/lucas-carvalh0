@@ -1,7 +1,7 @@
 # 🧑🏽‍💻 Lucas Carvalho 
 **`Estudante de ADS`** 
 
-Me chamo **Lucas** e sou estudante de Análise e Desenvolvimento de Sistemas, tenho interesse em desenvolvimento de software e estou em constante aprendizado na área de tecnologia.  Possuo conhecimentos básicos em HTML, CSS, Java, Javascript, C# e SQL, além de fundamentos de lógica de programação. Busco sempre aplicar na prática o que estudo por meio de projetos acadêmicos e exercícios, com foco na evolução contínua.Tenho como objetivo crescer profissionalmente na área de desenvolvimento, adquirindo experiência prática e ampliando meus conhecimentos técnicos ao longo da graduação.
+Me chamo Lucas e sou estudante de Análise e Desenvolvimento de Sistemas, tenho interesse em desenvolvimento de software e estou em constante aprendizado na área de tecnologia.  Possuo conhecimentos básicos em HTML, CSS, Java,Javascript, C# e SQL, além de fundamentos de lógica de programação. Busco sempre aplicar na prática o que estudo por meio de projetos acadêmicos e exercícios, com foco na evolução contínua.Tenho como objetivo crescer profissionalmente na área de desenvolvimento, adquirindo experiência prática e ampliando meus conhecimentos técnicos ao longo da graduação.
 
 
 ### 🌐 Conecte-se comigo
@@ -11,7 +11,7 @@ Me chamo **Lucas** e sou estudante de Análise e Desenvolvimento de Sistemas, te
 
 ---
 
-### 🧠 Tecnologias e Linguagens ###
+### 🤖 Linguagens de Programação ###
 
 
 <img 
@@ -46,16 +46,11 @@ Me chamo **Lucas** e sou estudante de Análise e Desenvolvimento de Sistemas, te
     style="padding-right: 10px;" 
     src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
-
-
-
-
- 
-          
-
-
-
-
-
-
-
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/>
