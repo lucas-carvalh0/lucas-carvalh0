@@ -30,12 +30,9 @@ Me chamo Lucas de Carvalho Barbosa e sou estudante de Análise e Desenvolvimento
   <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;
   <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;
   <img alt="GitHub" title="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img alt="SQL" title="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;
 </p>
 
-<p align="left">
-  <img alt="SQL" title="SQL" src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=databricks&logoColor=FF00F6" />
-  <img alt="Power BI" title="Power BI" src="https://img.shields.io/badge/-Power%20BI-000?style=for-the-badge&logo=powerbi&logoColor=FF00F6" />
-</p>
 
 <br/>
 
