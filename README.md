@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Bungee&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+my+profile!" alt="Typing SVG">
   </a>
 </div>
 
@@ -12,8 +12,7 @@ Me chamo Lucas de Carvalho Barbosa e sou estudante de Análise e Desenvolvimento
 
 <img align="right" alt="" height="200px" src="./src/apenasumshow.gif">
 
-
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">                                                      
+<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
 
 <h3 align="left">Connect with me!</h3>
 
