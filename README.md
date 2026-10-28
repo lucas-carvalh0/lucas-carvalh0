@@ -33,7 +33,6 @@ Me chamo Lucas de Carvalho Barbosa e sou estudante de Análise e Desenvolvimento
 <p align="left">
   <img alt="SQL" title="SQL" src="https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=databricks&logoColor=FF00F6" />
   <img alt="Power BI" title="Power BI" src="https://img.shields.io/badge/-Power%20BI-000?style=for-the-badge&logo=powerbi&logoColor=FF00F6" />
-  <img alt="Pacote Office" title="Pacote Office" src="https://img.shields.io/badge/-Pacote%20Office-000?style=for-the-badge&logo=microsoftoffice&logoColor=FF00F6" />
 </p>
 
 <br/>
