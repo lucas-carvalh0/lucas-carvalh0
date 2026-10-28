@@ -12,6 +12,9 @@ Me chamo Lucas de Carvalho Barbosa e sou estudante de Análise e Desenvolvimento
 
 <img align="right" alt="" height="250px" src="./src/apenasumshow.gif">
 
+
+
+
 <img align="right" alt="" height="190px" src="./src/edgerunners.gif">
 
 <h3 align="left">Connect with me!/h3>
