@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Lucas de Carvalho Barbosa e sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Santa Cecília (UNISANTA), atualmente no 4º semestre. Tenho conhecimentos em programação, desenvolvimento de sistemas, desenvolvimento web, banco de dados e análise de dados. Estou em busca de uma oportunidade de estágio em Tecnologia da Informação para aplicar o que aprendi em projetos reais.
+My name is Lucas de Carvalho Barbosa, and I am a student of Systems Analysis and Development at Santa Cecília University (UNISANTA), currently in my 4th semester. I have knowledge in programming, systems development, web development, databases, and data analysis. I am seeking an internship opportunity in Information Technology to apply what I have learned to real-world projects.
 
 #
 
